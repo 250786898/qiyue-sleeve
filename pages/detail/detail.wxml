@@ -1,0 +1,3 @@
+<view>
+  <s-realm spu="{{spu}}" />
+</view>

@@ -1,0 +1,21 @@
+<view>
+  <view>
+    <image />
+  </view>
+
+  <!-- 规格 -->
+  <view>
+  </view>
+   
+   <!-- 数量操作器 -->
+   <view>
+   <!-- counter -->
+   </view>
+
+  <!-- 购物操作 -->
+   <view>
+     
+   </view>
+     
+  
+</view>
