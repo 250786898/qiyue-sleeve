@@ -34,8 +34,9 @@ Component({
      * @deprecated 设置Sku列表
      */
     _setSkuList (spu) {
-      const fenceGroup = new FenceGroup()
+      const fenceGroup = new FenceGroup(spu)
       const skuList = fenceGroup.createFances()
+      console.log('skuList',skuList)
       this.setData({
         skuList
       })
